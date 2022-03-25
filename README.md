@@ -1,5 +1,7 @@
 # studious-chainsaw
 
+It uses Node js
+I also installed the lower version of chalk due to some error faced in latest version.
 
 This project consists of several commands:
 
